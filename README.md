@@ -8,7 +8,7 @@ This project aims to provide a reusable tool for asynchronous loading, caching a
 
 <pre>ImageLoader imageLoader=new ImageLoader(context);
 ...
-imageLoader.DisplayImage(url, imageView);</pre>
+imageLoader.displayImage(url, imageView);</pre>
 
 Don't forget to add the following permissions to your AndroidManifest.xml:
 
